@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/bg1</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+</resources>
